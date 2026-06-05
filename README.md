@@ -37,3 +37,4 @@ Para las etapas finales de la investigación, el simulador se expandirá para in
 ---
 **Autor:** Guillermo Reyes  
 **Curso:** FIS205 - Universidad Técnica Federico Santa María
+**Profesor:** Ariel Norambuena, Nicolás Viaux
